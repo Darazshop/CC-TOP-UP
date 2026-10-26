@@ -1,7 +1,7 @@
 // =======================================================
 // WEBSITE NAME (NICKNAME)
 // =======================================================
-var website_name = https://i.postimg.cc/MpM0pKV9/Main-logo-1.png";
+var website_name = https://i.postimg.cc/02mmTHv6/Main-logo.png";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
