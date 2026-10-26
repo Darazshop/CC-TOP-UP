@@ -1,7 +1,7 @@
 // =======================================================
 // WEBSITE NAME (NICKNAME)
 // =======================================================
-var website_name = https://i.postimg.cc/02mmTHv6/Main-logo.png";
+var website_name = "CC TOP UP";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
